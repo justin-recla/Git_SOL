@@ -2,4 +2,5 @@
 
 Das ist mein Wokwi x Python x BubbleSort Projekt
 
-![py.image](./screenshot_py.png)
+![py.image](./Docs/screenshot_py.png)
+
